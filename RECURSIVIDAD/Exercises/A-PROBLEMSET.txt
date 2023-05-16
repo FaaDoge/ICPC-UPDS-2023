@@ -1,0 +1,3 @@
+A. Implementa una función recursiva que calcule la potencia de un número entero dado una base y un exponente.
+B. Implementa una función recursiva que determine si una cadena de caracteres es palíndromo o no.
+C. Implementa una función recursiva que calcule el máximo común divisor (MCD) de dos números enteros positivos.
