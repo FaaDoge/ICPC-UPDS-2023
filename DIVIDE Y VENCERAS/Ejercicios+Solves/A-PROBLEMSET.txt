@@ -1,0 +1,7 @@
+A. Encontrar la suma de los elementos en un arreglo.
+B. Encontrar el número que es igual a su índice en un arreglo ordenado.
+C. Encontrar el elemento k-ésimo más grande en un arreglo.
+D. Encontrar el punto medio más cercano en un conjunto de puntos en el plano.
+E. Encontrar el par de elementos en un arreglo cuya suma es igual a un número dado.
+F. Identificar  los numeros que sean iguales a su indice y los movimientos minimos para encontrarlos
+G. Encontrar los puntos mas altos en el plano cartesiano
