@@ -1,0 +1,4 @@
+Juan es un agricultor y está clasificando las frutas cosechadas en su huerto. Tiene una lista de frutas donde algunas son manzanas y otras son naranjas. Juan quiere separar las manzanas de las naranjas y ordenarlas por tipo. Ayuda a Juan a particionar la lista de frutas en dos subsecuencias, una con las manzanas y otra con las naranjas, y mostrar ambas sublistas en orden.
+
+Isabel está planificando un viaje por carretera y quiere determinar la distancia máxima que puede recorrer con su automóvil antes de tener que detenerse a repostar gasolina. Tiene una lista de distancias entre ciudades a lo largo de la ruta y la capacidad de combustible de su automóvil. Ayuda a Isabel a encontrar la distancia máxima que puede recorrer antes de tener que repostar gasolina y mostrar el resultado.
+
